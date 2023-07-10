@@ -1,1 +1,1 @@
-# as_development_bot
+# Бот для анкеты
